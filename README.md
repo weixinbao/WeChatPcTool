@@ -1,4 +1,4 @@
-# 微信PCHOOK插件。
+# 微信PCHOOK插件
 ![](https://github.com/weixinbao/WeChatPcTool/blob/master/demo.png) <br/>
 
 # 声明
